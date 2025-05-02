@@ -19,7 +19,7 @@ cd payment-processing-api
 dotnet build
 dotnet run --project PaymentProcessing.Api
 
-### 🧪 Testing the API
+Testing the API
 
 The API can found at: 
 
